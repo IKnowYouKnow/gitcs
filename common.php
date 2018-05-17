@@ -5,6 +5,7 @@
  * Date: 2016/12/12 0012
  * Time: 下午 3:25
  */
+echo '测试一下看看哈';
 return ([
     'operation'                     => '操作',
     'display'                       => '显示',
